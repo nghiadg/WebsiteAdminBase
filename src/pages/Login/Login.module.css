@@ -1,0 +1,54 @@
+.container {
+  height: 100vh;
+  padding: 64px 0;
+}
+
+.headerContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 44px;
+}
+
+.logo {
+  width: 44px;
+  height: 44px;
+  margin-right: 16px;
+}
+
+.logo > img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.header {
+  font-size: 33px;
+  font-weight: 600;
+  color: #000000d9;
+}
+
+.description {
+  font-size: 14px;
+  color: #00000073;
+  max-width: 400px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 12px;
+  margin-bottom: 32px;
+}
+
+.form {
+  margin: 0 auto;
+  max-width: 350px;
+  min-width: 300px;
+}
+
+.copyright {
+  font-size: 14px;
+  color: #00000073;
+  text-align: center;
+  position: absolute;
+  bottom: 32px;
+  left: 50%;
+  transform: translateX(-50%);
+}

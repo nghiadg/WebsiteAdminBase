@@ -1,0 +1,28 @@
+.container {
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  height: 100vh;
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+  z-index: 10;
+  width: 212px;
+  padding: 24px 0px;
+}
+
+.placeholder {
+  width: 212px;
+}
+
+.avatarContainer {
+  display: flex;
+  align-items: center;
+  padding: 0px 16px 0px 24px;
+  margin-bottom: 24px;
+}
+
+.avatarContainer div {
+  margin-left: 8px;
+  font-weight: 600;
+}

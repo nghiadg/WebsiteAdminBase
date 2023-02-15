@@ -1,0 +1,12 @@
+.darwin-card {
+  border-radius: 16px;
+  background-color: #f7f9fb;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.darwin-card .ant-card-body {
+  width: 100%;
+  height: 100%;
+}

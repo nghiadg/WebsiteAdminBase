@@ -1,0 +1,14 @@
+.statisticItem {
+  padding: 24px;
+  border-radius: 16px;
+  min-width: 202px;
+  background-color: #e5ecf6;
+}
+
+.selectWrapper {
+  margin-bottom: 12px;
+}
+
+.container {
+  margin-bottom: 28px;
+}

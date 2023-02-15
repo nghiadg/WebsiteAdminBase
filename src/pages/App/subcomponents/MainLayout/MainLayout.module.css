@@ -1,0 +1,22 @@
+.main {
+  display: flex;
+  min-width: 100%;
+  min-height: 100vh;
+  padding-top: 72px;
+}
+
+.workspace {
+  width: 100%;
+  margin: 0 auto;
+  padding: 30px 28px;
+}
+
+.copyright {
+  font-size: 14px;
+  color: #00000073;
+  text-align: center;
+  position: fixed;
+  bottom: 8px;
+  right: 8px;
+  z-index: 9999;
+}

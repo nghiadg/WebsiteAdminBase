@@ -1,0 +1,9 @@
+.actionBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f7f9fb;
+  padding: 8px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}

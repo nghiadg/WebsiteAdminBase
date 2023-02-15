@@ -1,0 +1,12 @@
+.ratioChartContainer {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  padding-bottom: calc(100% / 2.07);
+}
+
+.ratioChartContainer > div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
